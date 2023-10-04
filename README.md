@@ -17,5 +17,5 @@ Part 2: Glossary
 
 
 References:  
-https://www.w3schools.com/whatis/whatis_github.asp#:~:text=GitHub%20is%20a%20code%20hosting,others)%20work%20together%20on%20projects.
+https://www.w3schools.com/whatis/whatis_github.asp#:~:text=GitHub%20is%20a%20code%20hosting,others)%20work%20together%20on%20projects.  
 https://docs.github.com/en/get-started/quickstart/github-glossary  
