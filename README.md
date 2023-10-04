@@ -1,7 +1,13 @@
 # A02
-Part 1: Git/Webstorm/GitHub Tutorial
+PART 1: Directions on using Git/Webstorm/GitHub  
+1.  Install Webstorm by downloading from https://www.jetbrains.com/student/ 
+2.  Install the latest Git as a local program https://git-scm.com/downloads
+3.  Create a Github account on https://github.com/join  
+4.  Connect Github and Webstorm by accessing Webstorm version control in system preferences and entering the path to your git.exe file
+5.  Create a new repository with your account in Github by selecting the "+" icon in the top right corner  
+6.  Make sure this repository is public and has a README.md file then hit create
 
-Part 2: Glossary  
+PART 2: Glossary  
 * **Branch:**  Contained within the repository, but does not affect the primary or main branch. After making changes, the branch can be merged back to the main branch to be officially published.
 * **Clone:**  A copy of a repository on your computer that can be edited in a preferred editor offline. It is connected to the remote version so local changes can still be synced when online again. 
 * **Commit:**  An individual change or "revision" to a file. Git allows you to keep record of these changes which are usually accompanied with a brief commit message of what was changed. 
