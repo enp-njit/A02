@@ -25,3 +25,6 @@ PART 2: Glossary
 References:  
 https://www.w3schools.com/whatis/whatis_github.asp#:~:text=GitHub%20is%20a%20code%20hosting,others)%20work%20together%20on%20projects.  
 https://docs.github.com/en/get-started/quickstart/github-glossary  
+https://www.jetbrains.com/help/webstorm/set-up-a-git-repository.html 
+https://www.jetbrains.com/help/webstorm/using-git-integration.html  
+
