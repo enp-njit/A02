@@ -4,11 +4,14 @@ PART 1: Directions on using Git/Webstorm/GitHub
 2.  Install the latest Git as a local program https://git-scm.com/downloads
 3.  Create a Github account on https://github.com/join  
 4.  Connect Github and Webstorm by accessing Webstorm version control in system preferences and entering the path to your git.exe file
-5.  In Webstorm, create a new project
+5.  In Webstorm, create a new project and select the directory where it will be stored
+6.  Add any files by going to file, new, and selecting HTML file and/or Stylesheet (CSS)
+7.  Enable version control integration by going to VCS menu at the top of the screen and select Git
+8.  
 
 
-6.  With your account in Github, create a new public repository by selecting the "+" icon in the top right corner and add a README.md file 
-7.  In Webstorm, select the directory where the Git repository will be created by going to VCS and importing
+9.  With your account in Github, create a new public repository by selecting the "+" icon in the top right corner and add a README.md file 
+10.  In Webstorm, select the directory where the Git repository will be created by going to VCS and importing
 
 PART 2: Glossary  
 * **Branch:**  an individual project with a unique set of code contained within a repository and can be merged to the main branch to be officially published.
