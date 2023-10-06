@@ -7,11 +7,12 @@ PART 1: Directions on using Git/Webstorm/GitHub
 5.  In Webstorm, create a new project and select the directory where it will be stored
 6.  Add any files by going to file, new, and selecting HTML file and/or Stylesheet (CSS)
 7.  Enable version control integration by going to VCS menu at the top of the screen and select Git
-8.  
+8.  Add files to Git by heading to the commit section in the left hand side and select desired files
+9.  Save your code and commit these files to Git. Make sure to add a commit message of what was done or revised
+10.  Add your project on Github by searching "share project on GitHub" in Webstorm
+11.  Create a repository name for GitHub. Make sure it is public so that it can viewed by others
+12.  When the repository has been shared, the IDE will provide a pop-up link to open the repo in a browser
 
-
-9.  With your account in Github, create a new public repository by selecting the "+" icon in the top right corner and add a README.md file 
-10.  In Webstorm, select the directory where the Git repository will be created by going to VCS and importing
 
 PART 2: Glossary  
 * **Branch:**  an individual project with a unique set of code contained within a repository and can be merged to the main branch to be officially published.
@@ -33,4 +34,5 @@ https://www.w3schools.com/whatis/whatis_github.asp#:~:text=GitHub%20is%20a%20cod
 https://docs.github.com/en/get-started/quickstart/github-glossary  
 https://www.jetbrains.com/help/webstorm/set-up-a-git-repository.html 
 https://www.jetbrains.com/help/webstorm/using-git-integration.html  
+https://www.youtube.com/watch?v=iV0iW8L6yt8 
 
