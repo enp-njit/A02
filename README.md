@@ -8,13 +8,13 @@ PART 1: Directions on using Git/Webstorm/GitHub
 6.  Add Webstorm files by going to file, new, and selecting HTML file and/or Stylesheet (CSS)
 7.  Enable version control integration by going to VCS menu at the top of the screen and select Git
 8.  Add your files to Git by heading to the commit section in the left hand side and select desired files
-9.  Save your code by committing these files to Git. Make sure to add a commit message of what was done or revised
+9.  Save your code by committing and pushing these files to Git. Make sure to add a commit message of what was done or revised
 10. Add your project on Github by searching "share project on GitHub" in Webstorm
 11. Create a repository name for GitHub. Make sure it is public so that it can viewed
 12. When the repository has been shared, the IDE will provide a pop-up link to open the repo in a browser
 13. Your file is now on Github and can be shared with others
-14. To set up Github pages, click on the repo's setting and choose a Github page location by selecting "master branch"
-15.  
+14. To set up Github pages, click on the repo's setting, pages, and choose a Github page location by selecting "master branch"
+15. Take the Github.io URl and paste it into your browser to test your file
 
 
 PART 2: Glossary  
