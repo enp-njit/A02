@@ -29,13 +29,13 @@ PART 2: Glossary
 * **Push:**   To send committed changes to a remote repository on GitHub.com.
 * **Pull:**  Occurs when fetching changes and merging them. Content from a remote repository is downloaded to update a local repository so that the content matches and is up to date.
 * **Remote:**  A version of a repository or branch that is hosted on a server like GitHub.com and can be connected to local clones so that changes sync.
-* **Repository:**  Similar to a project's folder that contains all of the project files and stores each file's revision history. It can be public or private with multiple collaborators.
+* **Repository:**  Similar to a project's folder that contains all of the project files and stores each file's revision history. It can be public or private with multiple collaborators.  
 
 
 References:  
-https://www.w3schools.com/whatis/whatis_github.asp#:~:text=GitHub%20is%20a%20code%20hosting,others)%20work%20together%20on%20projects.  
-https://docs.github.com/en/get-started/quickstart/github-glossary  
-https://www.jetbrains.com/help/webstorm/set-up-a-git-repository.html 
-https://www.jetbrains.com/help/webstorm/using-git-integration.html  
-https://www.youtube.com/watch?v=iV0iW8L6yt8 
-https://njit.instructure.com/courses/30780/files/5214587?module_item_id=1138121 
+Git: Webstorm. WebStorm Help. (2023, August). https://www.jetbrains.com/help/webstorm/using-git-integration.html   
+GitHub glossary. GitHub Docs. (2023). https://docs.github.com/en/get-started/quickstart/github-glossary   
+Hendela, A. (2019). IntroToGitHub-20190318.pptx   
+Set up A git repository: Webstorm. WebStorm Help. (n.d.). https://www.jetbrains.com/help/webstorm/set-up-a-git-repository.html   
+What is github?. What is GitHub. (n.d.). https://www.w3schools.com/whatis/whatis_github.asp#:~:text=GitHub%20is%20a%20code%20hosting,others)%20work%20together%20on%20projects   
+YouTube. (2020). WebStorm Fundamentals: Add a Project to Git and GitHub. YouTube. Retrieved October 8, 2023, from https://www.youtube.com/watch?v=iV0iW8L6yt8.    
